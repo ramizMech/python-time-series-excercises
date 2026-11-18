@@ -1,0 +1,6 @@
+D:
+cd D:\ramiz\time-series-python\python-time-series-excercises
+
+conda activate tsa-course
+
+jupyter notebook
